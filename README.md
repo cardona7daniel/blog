@@ -17,9 +17,9 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 ## Running unit tests
 
 I'm using experimental jest config using blog of esteban => https://www.linkedin.com/pulse/using-jest-angular-17-esteban-luchsinger-ols4e/
-also using medium blog for further configurations https://medium.com/@ayushgrwl365/jesting-your-angular-app-simplifying-unit-testing-with-jest-324f5bb9e2df
+<!-- also using medium blog for further configurations https://medium.com/@ayushgrwl365/jesting-your-angular-app-simplifying-unit-testing-with-jest-324f5bb9e2df
 https://www.youtube.com/watch?v=f4h3g3NJVa4&t=70s 4 Formas de 🚀OPTIMIZAR🚀 la ejecución de tests con JEST 🎩
-https://www.youtube.com/watch?v=LM_rRRSNq20  portafolio video
+https://www.youtube.com/watch?v=LM_rRRSNq20  portafolio video -->
 
 Run `ng test` to execute the unit tests via [jest](https://github.com/jestjs/jest).
 
